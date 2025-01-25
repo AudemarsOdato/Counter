@@ -6,3 +6,6 @@ Feel free to check it out.
 
 Link to the course:
 https://scrimba.com/learn-javascript-c0v
+
+## My own version:
+[Counter-app](https://counter-audemars.netlify.app/)
