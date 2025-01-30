@@ -8,4 +8,5 @@ Link to the course:
 https://scrimba.com/learn-javascript-c0v
 
 ## My own version:
+### Updated to version 2
 [Counter-app](https://counter-audemars.netlify.app/)
